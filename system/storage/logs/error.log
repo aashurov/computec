@@ -1,0 +1,12 @@
+2020-05-26 0:05:57 - PHP Warning:  fopen(/Applications/MAMP/htdocs/computec/system/storage/cache/cache.catalog.language.1590455157): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/computec/system/library/cache/file.php on line 49
+2020-05-26 0:05:57 - PHP Warning:  flock() expects parameter 1 to be resource, bool given in /Applications/MAMP/htdocs/computec/system/library/cache/file.php on line 51
+2020-05-26 0:05:57 - PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in /Applications/MAMP/htdocs/computec/system/library/cache/file.php on line 53
+2020-05-26 0:05:57 - PHP Warning:  fflush() expects parameter 1 to be resource, bool given in /Applications/MAMP/htdocs/computec/system/library/cache/file.php on line 55
+2020-05-26 0:05:57 - PHP Warning:  flock() expects parameter 1 to be resource, bool given in /Applications/MAMP/htdocs/computec/system/library/cache/file.php on line 57
+2020-05-26 0:05:57 - PHP Warning:  fclose() expects parameter 1 to be resource, bool given in /Applications/MAMP/htdocs/computec/system/library/cache/file.php on line 59
+2020-05-26 0:05:57 - PHP Warning:  fopen(/Applications/MAMP/htdocs/computec/system/storage/cache/cache.currency.1590455157): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/computec/system/library/cache/file.php on line 49
+2020-05-26 0:05:57 - PHP Warning:  flock() expects parameter 1 to be resource, bool given in /Applications/MAMP/htdocs/computec/system/library/cache/file.php on line 51
+2020-05-26 0:05:57 - PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in /Applications/MAMP/htdocs/computec/system/library/cache/file.php on line 53
+2020-05-26 0:05:57 - PHP Warning:  fflush() expects parameter 1 to be resource, bool given in /Applications/MAMP/htdocs/computec/system/library/cache/file.php on line 55
+2020-05-26 0:05:57 - PHP Warning:  flock() expects parameter 1 to be resource, bool given in /Applications/MAMP/htdocs/computec/system/library/cache/file.php on line 57
+2020-05-26 0:05:57 - PHP Warning:  fclose() expects parameter 1 to be resource, bool given in /Applications/MAMP/htdocs/computec/system/library/cache/file.php on line 59
