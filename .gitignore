@@ -5,7 +5,7 @@
 
 # Image File
 !/upload/image/no_image.jpg
-
+system/storage/logs/openbay.log
 # Image Cache Files
 /upload/image/cache/*
 !/upload/image/cache/index.html
