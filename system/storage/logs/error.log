@@ -10,3 +10,4 @@
 2020-05-26 0:05:57 - PHP Warning:  fflush() expects parameter 1 to be resource, bool given in /Applications/MAMP/htdocs/computec/system/library/cache/file.php on line 55
 2020-05-26 0:05:57 - PHP Warning:  flock() expects parameter 1 to be resource, bool given in /Applications/MAMP/htdocs/computec/system/library/cache/file.php on line 57
 2020-05-26 0:05:57 - PHP Warning:  fclose() expects parameter 1 to be resource, bool given in /Applications/MAMP/htdocs/computec/system/library/cache/file.php on line 59
+2020-05-26 1:08:37 - PHP Notice:  Undefined index: module_notificationTelegram_customer_alert in /Applications/MAMP/htdocs/computec/admin/controller/extension/module/notificationTelegram.php on line 133
