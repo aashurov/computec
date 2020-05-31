@@ -1,9 +1,13 @@
 <?php
 // Text
 $_['text_information']  = 'Информация';
-$_['text_service']      = 'Бренды';
-$_['text_extra']        = 'Дополнительно';
+$_['text_service']      = 'Дополнительно';
+$_['text_extra']        = 'Бренды';
 $_['text_contact']      = 'Контакты';
+$_['text_mi']      = 'Mi аксессуары';
+$_['text_asus']      = 'Asus';
+$_['text_cougar']      = 'Cougar';
+$_['text_plantronics']      = 'Гарнитуры Plantronics';
 $_['text_return']       = 'Возврат товара';
 $_['text_sitemap']      = 'Карта сайта';
 $_['text_manufacturer'] = 'Производители';

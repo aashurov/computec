@@ -1,8 +1,8 @@
 <?php
 // Text
 $_['text_information']  = 'Information';
-$_['text_service']      = 'Brands';
-$_['text_extra']        = 'Extras';
+$_['text_service']      = 'Extras';
+$_['text_extra']        = 'Brands';
 $_['text_contact']      = 'Contact Us';
 $_['text_return']       = 'Returns';
 $_['text_sitemap']      = 'Site Map';
