@@ -1,0 +1,282 @@
+[
+    {
+        "category": "Стабилизаторы",
+        "category_id": 84
+        "category_id": 246
+    },
+    {
+        "category": "Блоки питания",
+        "category_id": 22
+        "category_id": 247
+    },
+    {
+        "category": "Online",
+        "category_id": 25
+        "category_id": 248
+    },
+    {
+        "category": "Маршрутизаторы",
+        "category_id": 132
+        "category_id": 249
+    },
+    {
+        "category": "Товар без подкатегории",
+        "category_id": 142
+        "category_id": 250
+    },
+    {
+        "category": "Коммутаторы",
+        "category_id": 36
+        "category_id": 251
+    },
+    {
+        "category": "Wi-Fi адаптеры",
+        "category_id": 63
+        "category_id": 252
+    },
+    {
+        "category": "Жесткие диски",
+        "category_id": 14
+        "category_id": 253
+    },
+    {
+        "category": "Акустические системы",
+        "category_id": 41
+        "category_id": 254
+    },
+    {
+        "category": "Инверторы",
+        "category_id": 75
+        "category_id": 255
+    },
+    {
+        "category": "Line Interactive",
+        "category_id": 60
+        "category_id": 256
+    },
+    {
+        "category": "Точки доступа",
+        "category_id": 133
+        "category_id": 257
+    },
+    {
+        "category": "Принтеры",
+        "category_id": 16
+        "category_id": 258
+    },
+    {
+        "category": "Оптические приводы",
+        "category_id": 40
+        "category_id": 259
+    },
+    {
+        "category": "Процессоры",
+        "category_id": 51
+        "category_id": 260
+    },
+    {
+        "category": "Мониторы",
+        "category_id": 145
+        "category_id": 261
+    },
+    {
+        "category": "SSD",
+        "category_id": 73
+        "category_id": 262
+    },
+    {
+        "category": "Материнские платы",
+        "category_id": 23
+        "category_id": 263
+    },
+    {
+        "category": "Модули памяти",
+        "category_id": 31
+        "category_id": 264
+    },
+    {
+        "category": "Гарнитуры",
+        "category_id": 28
+        "category_id": 265
+    },
+    {
+        "category": "Наушники",
+        "category_id": 102
+        "category_id": 266
+    },
+    {
+        "category": "МФУ и принтеры",
+        "category_id": 62
+        "category_id": 267
+    },
+    {
+        "category": "Картриджи и тонеры",
+        "category_id": 34
+        "category_id": 268
+    },
+    {
+        "category": "Клавиатуры",
+        "category_id": 137
+        "category_id": 269
+    },
+    {
+        "category": "Видеокарты",
+        "category_id": 13
+        "category_id": 270
+    },
+    {
+        "category": "Радиотелефоны",
+        "category_id": 88
+        "category_id": 271
+    },
+    {
+        "category": "Повторители сигнала",
+        "category_id": 143
+        "category_id": 272
+    },
+    {
+        "category": "Беспроводные наборы",
+        "category_id": 58
+        "category_id": 273
+    },
+    {
+        "category": "Игровые аксессуары",
+        "category_id": 148
+        "category_id": 274
+    },
+    {
+        "category": "Флеш накопители",
+        "category_id": 42
+        "category_id": 275
+    },
+    {
+        "category": "Игровые мыши",
+        "category_id": 33
+        "category_id": 276
+    },
+    {
+        "category": "Игровые клавиатуры",
+        "category_id": 32
+        "category_id": 277
+    },
+    {
+        "category": "Комплекты (клавиатура+мышь)",
+        "category_id": 144
+        "category_id": 278
+    },
+    {
+        "category": "Игровые кресла",
+        "category_id": 21
+        "category_id": 279
+    },
+    {
+        "category": "Баребоны (каркасы) моноблоков",
+        "category_id": 154
+        "category_id": 280
+    },
+    {
+        "category": "Сканеры",
+        "category_id": 67
+        "category_id": 281
+    },
+    {
+        "category": "Мыши",
+        "category_id": 138
+        "category_id": 282
+    },
+    {
+        "category": "Аккумуляторы",
+        "category_id": 153
+        "category_id": 283
+    },
+    {
+        "category": "Проекторы",
+        "category_id": 158
+        "category_id": 284
+    },
+    {
+        "category": "Аксессуары и опции",
+        "category_id": 159
+        "category_id": 285
+    },
+    {
+        "category": "Кулеры",
+        "category_id": 149
+        "category_id": 286
+    },
+    {
+        "category": "Кейсы",
+        "category_id": 141
+        "category_id": 287
+    },
+    {
+        "category": "Коврики",
+        "category_id": 104
+        "category_id": 288
+    },
+    {
+        "category": "Корпуса",
+        "category_id": 101
+        "category_id": 289
+    },
+    {
+        "category": "Системы охлаждения с водянной помпой",
+        "category_id": 106
+        "category_id": 290
+    },
+    {
+        "category": "Зарядные устройства",
+        "category_id": 79
+        "category_id": 291
+    },
+    {
+        "category": "Аксессуары",
+        "category_id": 69
+        "category_id": 292
+    },
+    {
+        "category": "Прочее коммутационное оборудование",
+        "category_id": 147
+        "category_id": 293
+    },
+    {
+        "category": "Игровые столы",
+        "category_id": 146
+        "category_id": 294
+    },
+    {
+        "category": "Камеры",
+        "category_id": 59
+        "category_id": 295
+    },
+    {
+        "category": "Печатающие головки",
+        "category_id": 140
+        "category_id": 296
+    },
+    {
+        "category": "Освещение",
+        "category_id": 78
+        "category_id": 297
+    },
+    {
+        "category": "Проводные наушники и микрофоны",
+        "category_id": 105
+        "category_id": 298
+    },
+    {
+        "category": "Камеры",
+        "category_id": 156
+        "category_id": 299
+    },
+    {
+        "category": "Моноблоки",
+        "category_id": 30
+        "category_id": 300
+    },
+    {
+        "category": "Чернила",
+        "category_id": 139
+        "category_id": 301
+    }
+]
