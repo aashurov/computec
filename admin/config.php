@@ -1,11 +1,11 @@
 <?php
 // HTTP
-define('HTTP_SERVER', 'http://localhost:8888/computec/admin/');
-define('HTTP_CATALOG', 'http://localhost:8888/computec/');
+define('HTTP_SERVER', 'http://localhost/computec/admin/');
+define('HTTP_CATALOG', 'http://localhost/computec/');
 
 // HTTPS
-define('HTTPS_SERVER', 'http://localhost:8888/computec/admin/');
-define('HTTPS_CATALOG', 'http://localhost:8888/computec/');
+define('HTTPS_SERVER', 'http://localhost/computec/admin/');
+define('HTTPS_CATALOG', 'http://localhost/computec/');
 
 // DIR
 define('DIR_APPLICATION', '/Applications/MAMP/htdocs/computec/admin/');

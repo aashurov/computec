@@ -1,9 +1,9 @@
 <?php
 // HTTP
-define('HTTP_SERVER', 'http://localhost:8888/computec/');
+define('HTTP_SERVER', 'http://localhost/computec/');
 
 // HTTPS
-define('HTTPS_SERVER', 'http://localhost:8888/computec/');
+define('HTTPS_SERVER', 'http://localhost/computec/');
 
 // DIR
 define('DIR_APPLICATION', '/Applications/MAMP/htdocs/computec/catalog/');
